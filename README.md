@@ -40,7 +40,7 @@ There are number of ways how you can run your applications with Payara Micro wit
 
  - load applications from a mounted file-system (from a disk on the host system or on network)
  - derive a new docker image that also contains your applications on the file-system
- - load applications from a maven repository accessible from the dockar container
+ - load applications from a maven repository accessible from the docker container
 
 ### Run from a mounted volume
 
